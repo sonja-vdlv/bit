@@ -1,0 +1,33 @@
+#top{
+    text-align: center;
+}
+
+body{
+    font-family: cursive;
+}
+
+.pic1{
+    position: relative;
+    margin-top:50px;
+    margin-left:100px;
+}
+
+.pic2{
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}
+
+.pic3{
+position: absolute;
+bottom:2px;
+}
+
+a{
+    position: fixed; 
+    text-decoration: none;
+    bottom:0px;
+    right: 0px;
+    display: block;
+}
+
