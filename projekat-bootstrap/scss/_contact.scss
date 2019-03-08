@@ -1,0 +1,22 @@
+.contact {
+    text-align: center;
+}
+.inputtext {
+    color: $input-text;
+    text-align: left;
+    font-weight: bolder;
+}
+.contact button {
+    background-color: $greenish;
+    color: white;
+    border: 1px solid white;
+    border-radius: 7%, 7%;
+}
+.contact input::placeholder {
+    border-top: none;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.contact h3 {
+    padding-top: 10%;
+}
